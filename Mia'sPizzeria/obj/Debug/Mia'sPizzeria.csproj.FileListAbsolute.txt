@@ -1,0 +1,10 @@
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\bin\Debug\Mia'sPizzeria.exe.config
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\bin\Debug\Mia'sPizzeria.exe
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\bin\Debug\Mia'sPizzeria.pdb
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia_sPizzeria.Form1.resources
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia_sPizzeria.Properties.Resources.resources
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia'sPizzeria.csproj.GenerateResource.cache
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia'sPizzeria.csproj.CoreCompileInputs.cache
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia'sPizzeria.exe
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia'sPizzeria.pdb
+U:\MyCode\Mia'sPizzeria\Mia'sPizzeria\obj\Debug\Mia'sPizzeria.csproj.AssemblyReference.cache
